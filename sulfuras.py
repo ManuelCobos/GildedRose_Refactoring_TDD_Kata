@@ -27,3 +27,5 @@ if __name__ == '__main__':
     for dia in range(1, 10):
         item.update_quality()
         print(item)
+
+#test.
